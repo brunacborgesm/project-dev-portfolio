@@ -7,7 +7,7 @@ type TechProps = {
 
 export const TechCards = ({ url, alt, color, tech }: TechProps ) => {
   return (
-    <div className="flex space-x-2 bg-slate-700 px-4 py-2 rounded-3xl ">
+    <div className="flex justify-center space-x-2 bg-slate-700 px-6 py-2 rounded-3xl">
       <img 
         src={url} 
         alt={alt}
