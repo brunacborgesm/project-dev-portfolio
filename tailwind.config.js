@@ -12,6 +12,9 @@ export default {
         "blue": "#3996db",
         "green": "#82bc4f",
         "yellow": "#eabd5f",
+        "bg-gray": "#16181d",
+        "base-gray": "#E2E4E9",
+        "gray-card": "#292C34",
       },
 
       backgroundImage: {
