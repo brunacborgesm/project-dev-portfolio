@@ -9,10 +9,10 @@ import { ProjectCards } from '../components/ProjectCards'
 
 export const Projetcs = () => {
   return (
-    <div className='bg-bg-gray text-base-gray h-screen text-center flex flex-col justify-center'>
+    <div className='bg-bg-gray h-screen text-center flex flex-col justify-center'>
         <div className='pb-14'>
             <span className='text-red font-Inconsolata text-xl'>Meu trabalho</span>
-            <h2 className='font-Asap font-bold text-2xl'>Veja os projetos em destaque</h2>
+            <h2 className='font-Asap font-bold text-2xl text-base-gray'>Veja os projetos em destaque</h2>
         </div>
 
         <div className='grid grid-cols-3 gap-6 w-3/4 mx-auto'>
