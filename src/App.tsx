@@ -1,5 +1,6 @@
 import { Homepage } from "./pages/Homepage"
 import { Projetcs } from "./pages/Projetcs"
+import { Services } from "./pages/Services"
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
       <div>
         <Homepage />
         <Projetcs />
+        <Services />
       </div>
   )
 }

@@ -15,6 +15,7 @@ export default {
         "bg-gray": "#16181d",
         "base-gray": "#E2E4E9",
         "gray-card": "#292C34",
+        "dark-gray": "#0D0E11",
       },
 
       backgroundImage: {
